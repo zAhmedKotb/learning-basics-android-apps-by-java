@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/btn.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_send.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-land/activity_java_basic_to_learn.xml" value="0.1859375" />
+        <entry key="app/src/main/res/layout-land/activity_learn_android_basic.xml" value="0.1859375" />
+        <entry key="app/src/main/res/layout-land/activity_learn_java_basic.xml" value="0.1859375" />
+        <entry key="app/src/main/res/layout/activity_java_basic_to_learn.xml" value="0.1425925925925926" />
+        <entry key="app/src/main/res/layout/activity_learn_android_basic.xml" value="0.2453125" />
+        <entry key="app/src/main/res/layout/activity_learn_java_basic.xml" value="0.21115570068359377" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1372955322265625" />
+        <entry key="app/src/main/res/layout/activity_third.xml" value="0.21215515136718752" />
+        <entry key="app/src/main/res/layout/list_row.xml" value="0.1677930946258618" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">baisic Android Learn</string>
+
+    <string name="start_btn">Enter</string>
+    <string name="java_bisic">Java Bisic</string>
+    <string name="android_bisc">Android Bisic</string>
+    <string name="java_prjct">Simple Java Projects</string>
+    <string name="oop">Java OOP</string>
+    <string name="algorithm">Algorithms</string>
+    <string name="some_advice">Some Advice</string>
+    <string name="used_sources">The Sources Used</string>
+    <string name="feed_back">Send Your Feedback</string>
+    <string name="well_come">Well Come My Friend</string>
+    <string name="android_projct">Simple Android Projects</string>
+    <string name="wellcome_msge">The idea of ​​this program is to understand some simple teachings in the Java programming language and Android applications for beginners</string>
+
+
+
+    <string name="inter_en">introduction :</string>
+    <string name="inter1_en">   You must be stupid in order to be able to think like a machine. Programming, my dear, is the number of successive steps to solve a particular problem. This defines programming in a nutshell, and you have to search to learn more.
+ The mission of this application is to put you on the path of learning Android application programming in the Java language, and you will see that the application will ask you for some tasks that you have to complete in order to get out and get the most benefit and also to get out of the boredom of learning.
+ Programming, any human being is able to learn, and here we will learn together programming in the Java language (JSE).
+ The Java language contains more than one type:
+
+    i. Java Enterprise Edtion (JEE): It is used in servers and clouds.
+
+    ii. Java Micro Edtion and stands for JME: It is used in internet devices such as instant and old phones.
+
+    iii. Java Standard Edition (JSE): It is used in well-known modern Android tours and computers, and it is what we will use in programming Android applications.
+
+ Although the Java language is easy because it is similar to human language, we need something called the Compiler.
+
+	•	What is the Compiler: It is a program that works automatically when the application you are working on is finished. It converts the code you wrote into a code in a machine language that the computer understands (that is, it converts the code to 0 and 1). This is called the Binary Code language. To understand more about this point, I recommend listening to the CS50 course.
+
+    Java Features :
+        (This image shows Java features with ease)
+ :</string>
+    <string name="resources">Sources</string>
+
+</resources>
